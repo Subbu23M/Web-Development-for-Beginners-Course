@@ -1,2 +1,2 @@
-# Web-Development-for-Beginners-Course.-
+# Web-Development-for-Beginners-Course.
 Thanks to CareerFoundary.
